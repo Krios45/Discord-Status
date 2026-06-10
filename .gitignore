@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables (sensitive data)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# Exclude specific files requested by the user
+ki1n_bot.py
+music_bot_example.py
+music_status.py
+README_RICH_PRESENCE.md
+
+
